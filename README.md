@@ -3,7 +3,7 @@
 [![SVG Banners](https://raw.githubusercontent.com/ximxim/ximxim/main/assets/header.svg)](https://github.com/ximxim)
 
 #### You can find me on:
-[LinkedIn](https://www.linkedin.com/in/ahmedaz/) - [Medium](https://medium.com/@ximxim) - [Twitter](https://twitter.com/ximahmed) - [Email](mailto:azim.ahmed7@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/ahmedaz/) - [Medium](https://ximxim99.medium.com/) - [Twitter](https://twitter.com/ximahmed) - [Email](mailto:azim.ahmed7@gmail.com)
 <br>
 <br>
 
