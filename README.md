@@ -1,2 +1,2 @@
-[![SVG Banners](https://github.com/ximxim/ximxim/raw/master/assets/header.svg)](https://github.com/ximxim)
+[![SVG Banners](https://raw.githubusercontent.com/ximxim/ximxim/main/assets/header.svg)](https://github.com/ximxim)
 
