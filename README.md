@@ -9,7 +9,7 @@
 
 My name is Azim, I love creating solutions. It just so happens I am a developer by profession and I get to solve problems every day. I couldn't be happier 😀. I learned computer programming from Sheridan College. I took my studies further by doing what most developers do, view as many tutorials and work with as many frameworks and new technologies as possible. I work at Lazer technologies as a React Native developer.
 
-I spend my off time with my family. I am father of two, daughter (17y) and son (7y). My wife and I are kept busy by these two 🤣. I also enjoy doing origami and playing some Mario games on our Nintendo switch with my children.
+I spend my off time with my family. I am father of two, daughter and son. My wife and I are kept busy by these two 🤣. I also enjoy doing origami and playing some Mario games on our Nintendo switch with my children.
 
 <br>
 <br>
