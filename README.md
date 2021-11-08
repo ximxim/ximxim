@@ -14,6 +14,11 @@ I spend my off time with my family👪. I am father of two 👧👦. My wife and
 <br>
 <br>
 
+[![Azim Ahmed's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>
+<br>
+
 ![Azim Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ximxim&count_private=true&show_icons=true&theme=onedark)
 
 <br>
